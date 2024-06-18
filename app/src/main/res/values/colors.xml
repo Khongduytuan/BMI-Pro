@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_orange">#1A287A</color>
+    <color name="list_orange">#4387BD</color>
+    <color name="sixty_opacity_white">#C0D9EC</color>
+    <color name="backCard">#08528E</color>
+</resources>
